@@ -1,0 +1,27 @@
+*{
+    margin: auto 0;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+h2{
+    color: white;
+    position: absolute;
+    font-size: 60px;
+    top: 50%;
+    margin-left: 35%;
+}
+
+p{
+    color: white;
+    position: absolute;
+    font-size: 60px;
+    top: 60%;
+    margin-left: 40%;
+}
+
+
